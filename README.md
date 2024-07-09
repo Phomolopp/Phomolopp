@@ -30,21 +30,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=besthor&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</p> 
 
-<div align="center">
-    <table>
-      <tr>
-        <td>
-          <a href="http://www.github.com/besthor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-         </td>
-      </tr>
-  </table>
-</div>
 
 
 <div id="header" align="center">
