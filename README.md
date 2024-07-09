@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - **Producer of engaging tech tutorials on [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) YouTube channel** ***(45,000 views and counting!)***
 - **Fluent in sarcasm and the art of debugging.**
 - **Favorite mantra: "Strive for Progress Not Perfection"**
-- **Reach out at besthortechhub@gmail.com or WhatsApp +2349021481370 for a tech-tastic chat!**
+- **Reach out at besthortechhub@gmail.com or WhatsApp 0656363521 for a tech-tastic chat!**
