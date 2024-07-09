@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Phomolo Phohu👋
 
 <!--
 **Phomolopp/Phomolopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **Proficient software engineer, honed at ALX-Holberton School, specialized in Back-end mastery.**
-- **Online instructor with a ***70%*** success rate mentoring cohorts**
-- **Producer of engaging tech tutorials on [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) YouTube channel** ***(45,000 views and counting!)***
-- **Fluent in sarcasm and the art of debugging.**
-- **Favorite mantra: "Strive for Progress Not Perfection"**
-- **Reach out at besthortechhub@gmail.com or WhatsApp 0656363521 for a tech-tastic chat!**
+## <b>`🌱A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+- **I am a  Full Stack Developer Intern at Capaciti**
+- **South Africa**
+- **⚡Programming Languages[Python,Java,JavaScript,Html,css]***
+- **From Tshwane University Of Technology**
+- **📫Reach out at phomolomanuel@gmail.com or WhatsApp 0656363521 for a tech-tastic chat!**
