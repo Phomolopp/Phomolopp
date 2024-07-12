@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## <b>`Online Projects`</b><>
 
-<a href="https://phomolo-snake-game.netlify.app/" target="blank" style="text-decoration: none;">`Snake Application`</a>
+<a href="https://phomolo-snake-game.netlify.app/" target="blank" style="text-decoration: none;">Snake Application</a>
 
 
 <a href="https://candid-beignet-8d1d18.netlify.app/" target="blank" style="text-decoration: none;">`Weather Website`</a>
