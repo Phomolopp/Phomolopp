@@ -37,16 +37,16 @@ Here are some ideas to get you started:
 
 ## <b>`Online Projects`</b><>
 
-<a href="https://phomolo-snake-game.netlify.app/" target="blank" style="text-decoration: none;">`Snake Application`</a>
+<a href="https://phomolo-snake-game.netlify.app/" target="_blank" style="text-decoration: none;">`Snake Application`</a>
 
 
-<a href="https://candid-beignet-8d1d18.netlify.app/" target="blank" style="text-decoration: none;">`Weather Website`</a>
+<a href="https://candid-beignet-8d1d18.netlify.app/" target="_blank" style="text-decoration: none;">`Weather Website`</a>
 
 
-<a href="https://moonlit-manatee-299cdb.netlify.app/" target="blank" style="text-decoration: none;">`Online Calculator`</a>
+<a href="https://moonlit-manatee-299cdb.netlify.app/" target="_blank" style="text-decoration: none;">`Online Calculator`</a>
 
 
-<a href="https://lighthearted-boba-801d5f.netlify.app/" target="blank" style="text-decoration: none;">`School Website`</a>
+<a href="https://lighthearted-boba-801d5f.netlify.app/" target="_blank" style="text-decoration: none;">`School Website`</a>
 
 
 # 📊 GitHub Stats:
