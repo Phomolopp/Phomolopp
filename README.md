@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <a href="https://candid-beignet-8d1d18.netlify.app/" target="blank">`Weather Website`</a>
 
-<img src="https://github.com/user-attachments/assets/9196f0cb-e10a-44b0-a88f-983cf81bbe75" />
+<img src="https://github.com/user-attachments/assets/9196f0cb-e10a-44b0-a88f-983cf81bbe75" width="100" />
 
 <a href="https://moonlit-manatee-299cdb.netlify.app/" target="blank">`Online Calculator`</a>
 
