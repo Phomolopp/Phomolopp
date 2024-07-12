@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 - **⚡From Tshwane University Of Technology**
 - **📫Reach out at phomolomanuel@gmail.com or WhatsApp 0656363521 for a tech-tastic chat!**
 
+  
+<a href="https://x.com/@Ranzo_lerato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuux_tv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lerato-mawasha-28b988197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lerato" height="30" width="40" /></a>
+<a href="https://discord.gg/@lerato_mawasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lerato" height="30" width="40" /></a>
+<a href="https://github.com/Odarell35" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="lerato" height="35" width="45" /></a>
+
+
 #
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
