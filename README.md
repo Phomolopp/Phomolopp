@@ -1,4 +1,5 @@
 <h1 align="center">
+    [![](https://visitcount.itsvg.in/api?id=ditebogo4&icon=0&color=0)](https://visitcount.itsvg.in)
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phomolo+Phohu!+😄;Welcome+To+My+GitHub+⚡" />
 </h1>
 
@@ -37,8 +38,14 @@ Here are some ideas to get you started:
 ## <b>`Online Projects`</b><>
 
 <a href="https://phomolo-snake-game.netlify.app/" target="blank">`Snake Application`</a>
+
+
 <a href="https://candid-beignet-8d1d18.netlify.app/" target="blank">`Weather Website`</a>
+
+
 <a href="https://moonlit-manatee-299cdb.netlify.app/" target="blank">`Online Calculator`</a>
+
+
 <a href="https://lighthearted-boba-801d5f.netlify.app/" target="blank">`School Website`</a>
 
 
