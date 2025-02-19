@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <b>`🌱A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **🔭I am a  Full Stack Developer Intern at Capaciti**
+- **🔭I am a  Full Stack Developer Intern at IST**
 - **🌱South Africa**
-- **😄Currently working on the improvements of my online websites**
-- **⚡From Tshwane University Of Technology**
+- **😄Currently Building a performance monitoring dashboard for IST**
+- **⚡Graduate from Tshwane University Of Technology**
 - **📫Reach out at phomolomanuel@gmail.com or WhatsApp/Call 0656363521 for a tech-tastic chat!**
 
 ## <b>`Social Links`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
