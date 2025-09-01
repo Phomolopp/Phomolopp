@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <b>`🌱A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **🔭I am a  Full Stack Developer Intern at IST**
+- **🔭I am a Junior Software Developer at IST**
 - **🌱South Africa**
-- **😄Currently Building a performance monitoring dashboard for IST**
+- **😄Currently Building a performance monitoring dashboard for IST and learning .NET framework**
 - **⚡Graduate from Tshwane University Of Technology**
 - **📫Reach out at phomolomanuel@gmail.com or WhatsApp/Call 0656363521 for a tech-tastic chat!**
 
